@@ -52,7 +52,7 @@ This implementation features:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/go-moku.git
+   git clone https://github.com/ghassanelgendy/go-moku.git
    ```
 
 2. Navigate to the directory:
